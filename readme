@@ -1,0 +1,8 @@
+I. Case Study Statement:
+
+To develop a basic Bank Management System which can create, update, remove, do transactions, and display account details.
+
+II. Relevance of the concept with respect to problem statement 
+
+Keeping track of all activities and their record. It is also very efficient and a timeconsuming process of observing continuous increase in number of clients visiting the  bank. Recording and maintaining all the client record is highly unreliable, inefficient
+and error prone. In this program, all the data members and structure from class Manager is inherited to  class Bank. We have created several functions in class Bank in which we have used  the data members present in class Manager to perform several operations.
